@@ -1,0 +1,13 @@
+
+.cproject
+.project
+.settings
+
+build/
+draft/
+doc/
+
+include/ums/avr*
+src/avr
+
+Makefile
